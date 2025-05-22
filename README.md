@@ -32,7 +32,6 @@
 <p align="center">
   • Python 3.11 (necesario para <code>undetected-chromedriver</code>)<br>
   • Google Chrome instalado<br>
-  • Cuenta de Google Cloud (opcional, si se desea usar Google Sheets)<br>
   • Power BI Desktop
 </p>
 
